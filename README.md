@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Computer Science Student <br>💻 Interested in IT Support, Software Development, <br>🛠 Skills: Python, HTML, Active Directory, Help Desk,  <br>
 
 
