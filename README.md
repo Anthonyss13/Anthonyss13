@@ -1,5 +1,5 @@
 #  About Me:
-🎓 Computer Science Student <br>💻 Interested in IT Support, Software Development, <br>🛠 Skills: Python, HTML, Active Directory, Help Desk,  <br>
+🎓 Computer Science Student  (Year 1 of 3) <br>💻 Interested in IT Support, Software Development, <br>🛠 Skills: Python, HTML, Active Directory, Help Desk,  <br>
 
 
 ## 🌐 Socials:
